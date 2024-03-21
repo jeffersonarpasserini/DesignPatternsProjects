@@ -1,0 +1,14 @@
+D:\CsharpProjects\ObserverSolucao\ObserverSolucao\bin\Debug\net6.0\ObserverSolucao.exe
+D:\CsharpProjects\ObserverSolucao\ObserverSolucao\bin\Debug\net6.0\ObserverSolucao.deps.json
+D:\CsharpProjects\ObserverSolucao\ObserverSolucao\bin\Debug\net6.0\ObserverSolucao.runtimeconfig.json
+D:\CsharpProjects\ObserverSolucao\ObserverSolucao\bin\Debug\net6.0\ObserverSolucao.dll
+D:\CsharpProjects\ObserverSolucao\ObserverSolucao\bin\Debug\net6.0\ObserverSolucao.pdb
+D:\CsharpProjects\ObserverSolucao\ObserverSolucao\obj\Debug\net6.0\ObserverSolucao.GeneratedMSBuildEditorConfig.editorconfig
+D:\CsharpProjects\ObserverSolucao\ObserverSolucao\obj\Debug\net6.0\ObserverSolucao.AssemblyInfoInputs.cache
+D:\CsharpProjects\ObserverSolucao\ObserverSolucao\obj\Debug\net6.0\ObserverSolucao.AssemblyInfo.cs
+D:\CsharpProjects\ObserverSolucao\ObserverSolucao\obj\Debug\net6.0\ObserverSolucao.csproj.CoreCompileInputs.cache
+D:\CsharpProjects\ObserverSolucao\ObserverSolucao\obj\Debug\net6.0\ObserverSolucao.dll
+D:\CsharpProjects\ObserverSolucao\ObserverSolucao\obj\Debug\net6.0\refint\ObserverSolucao.dll
+D:\CsharpProjects\ObserverSolucao\ObserverSolucao\obj\Debug\net6.0\ObserverSolucao.pdb
+D:\CsharpProjects\ObserverSolucao\ObserverSolucao\obj\Debug\net6.0\ObserverSolucao.genruntimeconfig.cache
+D:\CsharpProjects\ObserverSolucao\ObserverSolucao\obj\Debug\net6.0\ref\ObserverSolucao.dll

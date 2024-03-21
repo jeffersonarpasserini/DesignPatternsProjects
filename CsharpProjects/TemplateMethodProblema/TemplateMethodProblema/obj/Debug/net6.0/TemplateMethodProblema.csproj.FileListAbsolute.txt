@@ -1,0 +1,14 @@
+D:\CsharpProjects\TemplateMethodProblema\TemplateMethodProblema\bin\Debug\net6.0\TemplateMethodProblema.exe
+D:\CsharpProjects\TemplateMethodProblema\TemplateMethodProblema\bin\Debug\net6.0\TemplateMethodProblema.deps.json
+D:\CsharpProjects\TemplateMethodProblema\TemplateMethodProblema\bin\Debug\net6.0\TemplateMethodProblema.runtimeconfig.json
+D:\CsharpProjects\TemplateMethodProblema\TemplateMethodProblema\bin\Debug\net6.0\TemplateMethodProblema.dll
+D:\CsharpProjects\TemplateMethodProblema\TemplateMethodProblema\bin\Debug\net6.0\TemplateMethodProblema.pdb
+D:\CsharpProjects\TemplateMethodProblema\TemplateMethodProblema\obj\Debug\net6.0\TemplateMethodProblema.GeneratedMSBuildEditorConfig.editorconfig
+D:\CsharpProjects\TemplateMethodProblema\TemplateMethodProblema\obj\Debug\net6.0\TemplateMethodProblema.AssemblyInfoInputs.cache
+D:\CsharpProjects\TemplateMethodProblema\TemplateMethodProblema\obj\Debug\net6.0\TemplateMethodProblema.AssemblyInfo.cs
+D:\CsharpProjects\TemplateMethodProblema\TemplateMethodProblema\obj\Debug\net6.0\TemplateMethodProblema.csproj.CoreCompileInputs.cache
+D:\CsharpProjects\TemplateMethodProblema\TemplateMethodProblema\obj\Debug\net6.0\TemplateMethodProblema.dll
+D:\CsharpProjects\TemplateMethodProblema\TemplateMethodProblema\obj\Debug\net6.0\refint\TemplateMethodProblema.dll
+D:\CsharpProjects\TemplateMethodProblema\TemplateMethodProblema\obj\Debug\net6.0\TemplateMethodProblema.pdb
+D:\CsharpProjects\TemplateMethodProblema\TemplateMethodProblema\obj\Debug\net6.0\TemplateMethodProblema.genruntimeconfig.cache
+D:\CsharpProjects\TemplateMethodProblema\TemplateMethodProblema\obj\Debug\net6.0\ref\TemplateMethodProblema.dll

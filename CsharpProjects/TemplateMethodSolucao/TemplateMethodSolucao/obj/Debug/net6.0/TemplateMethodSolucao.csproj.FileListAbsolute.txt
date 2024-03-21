@@ -1,0 +1,14 @@
+D:\CsharpProjects\TemplateMethodSolucao\TemplateMethodSolucao\obj\Debug\net6.0\TemplateMethodSolucao.GeneratedMSBuildEditorConfig.editorconfig
+D:\CsharpProjects\TemplateMethodSolucao\TemplateMethodSolucao\obj\Debug\net6.0\TemplateMethodSolucao.AssemblyInfoInputs.cache
+D:\CsharpProjects\TemplateMethodSolucao\TemplateMethodSolucao\obj\Debug\net6.0\TemplateMethodSolucao.AssemblyInfo.cs
+D:\CsharpProjects\TemplateMethodSolucao\TemplateMethodSolucao\obj\Debug\net6.0\TemplateMethodSolucao.csproj.CoreCompileInputs.cache
+D:\CsharpProjects\TemplateMethodSolucao\TemplateMethodSolucao\bin\Debug\net6.0\TemplateMethodSolucao.exe
+D:\CsharpProjects\TemplateMethodSolucao\TemplateMethodSolucao\bin\Debug\net6.0\TemplateMethodSolucao.deps.json
+D:\CsharpProjects\TemplateMethodSolucao\TemplateMethodSolucao\bin\Debug\net6.0\TemplateMethodSolucao.runtimeconfig.json
+D:\CsharpProjects\TemplateMethodSolucao\TemplateMethodSolucao\bin\Debug\net6.0\TemplateMethodSolucao.dll
+D:\CsharpProjects\TemplateMethodSolucao\TemplateMethodSolucao\bin\Debug\net6.0\TemplateMethodSolucao.pdb
+D:\CsharpProjects\TemplateMethodSolucao\TemplateMethodSolucao\obj\Debug\net6.0\TemplateMethodSolucao.dll
+D:\CsharpProjects\TemplateMethodSolucao\TemplateMethodSolucao\obj\Debug\net6.0\refint\TemplateMethodSolucao.dll
+D:\CsharpProjects\TemplateMethodSolucao\TemplateMethodSolucao\obj\Debug\net6.0\TemplateMethodSolucao.pdb
+D:\CsharpProjects\TemplateMethodSolucao\TemplateMethodSolucao\obj\Debug\net6.0\TemplateMethodSolucao.genruntimeconfig.cache
+D:\CsharpProjects\TemplateMethodSolucao\TemplateMethodSolucao\obj\Debug\net6.0\ref\TemplateMethodSolucao.dll

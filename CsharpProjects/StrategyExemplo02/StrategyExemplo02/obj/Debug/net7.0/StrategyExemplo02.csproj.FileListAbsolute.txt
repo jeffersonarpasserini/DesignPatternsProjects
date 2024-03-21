@@ -1,0 +1,14 @@
+D:\CsharpProjects\StrategyExemplo02\StrategyExemplo02\bin\Debug\net7.0\StrategyExemplo02.exe
+D:\CsharpProjects\StrategyExemplo02\StrategyExemplo02\bin\Debug\net7.0\StrategyExemplo02.deps.json
+D:\CsharpProjects\StrategyExemplo02\StrategyExemplo02\bin\Debug\net7.0\StrategyExemplo02.runtimeconfig.json
+D:\CsharpProjects\StrategyExemplo02\StrategyExemplo02\bin\Debug\net7.0\StrategyExemplo02.dll
+D:\CsharpProjects\StrategyExemplo02\StrategyExemplo02\bin\Debug\net7.0\StrategyExemplo02.pdb
+D:\CsharpProjects\StrategyExemplo02\StrategyExemplo02\obj\Debug\net7.0\StrategyExemplo02.GeneratedMSBuildEditorConfig.editorconfig
+D:\CsharpProjects\StrategyExemplo02\StrategyExemplo02\obj\Debug\net7.0\StrategyExemplo02.AssemblyInfoInputs.cache
+D:\CsharpProjects\StrategyExemplo02\StrategyExemplo02\obj\Debug\net7.0\StrategyExemplo02.AssemblyInfo.cs
+D:\CsharpProjects\StrategyExemplo02\StrategyExemplo02\obj\Debug\net7.0\StrategyExemplo02.csproj.CoreCompileInputs.cache
+D:\CsharpProjects\StrategyExemplo02\StrategyExemplo02\obj\Debug\net7.0\StrategyExemplo02.dll
+D:\CsharpProjects\StrategyExemplo02\StrategyExemplo02\obj\Debug\net7.0\refint\StrategyExemplo02.dll
+D:\CsharpProjects\StrategyExemplo02\StrategyExemplo02\obj\Debug\net7.0\StrategyExemplo02.pdb
+D:\CsharpProjects\StrategyExemplo02\StrategyExemplo02\obj\Debug\net7.0\StrategyExemplo02.genruntimeconfig.cache
+D:\CsharpProjects\StrategyExemplo02\StrategyExemplo02\obj\Debug\net7.0\ref\StrategyExemplo02.dll

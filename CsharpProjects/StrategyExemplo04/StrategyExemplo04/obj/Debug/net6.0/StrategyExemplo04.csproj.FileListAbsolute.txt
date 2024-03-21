@@ -1,0 +1,14 @@
+D:\CsharpProjects\StrategyExemplo04\StrategyExemplo04\bin\Debug\net6.0\StrategyExemplo04.exe
+D:\CsharpProjects\StrategyExemplo04\StrategyExemplo04\bin\Debug\net6.0\StrategyExemplo04.deps.json
+D:\CsharpProjects\StrategyExemplo04\StrategyExemplo04\bin\Debug\net6.0\StrategyExemplo04.runtimeconfig.json
+D:\CsharpProjects\StrategyExemplo04\StrategyExemplo04\bin\Debug\net6.0\StrategyExemplo04.dll
+D:\CsharpProjects\StrategyExemplo04\StrategyExemplo04\bin\Debug\net6.0\StrategyExemplo04.pdb
+D:\CsharpProjects\StrategyExemplo04\StrategyExemplo04\obj\Debug\net6.0\StrategyExemplo04.GeneratedMSBuildEditorConfig.editorconfig
+D:\CsharpProjects\StrategyExemplo04\StrategyExemplo04\obj\Debug\net6.0\StrategyExemplo04.AssemblyInfoInputs.cache
+D:\CsharpProjects\StrategyExemplo04\StrategyExemplo04\obj\Debug\net6.0\StrategyExemplo04.AssemblyInfo.cs
+D:\CsharpProjects\StrategyExemplo04\StrategyExemplo04\obj\Debug\net6.0\StrategyExemplo04.csproj.CoreCompileInputs.cache
+D:\CsharpProjects\StrategyExemplo04\StrategyExemplo04\obj\Debug\net6.0\StrategyExemplo04.dll
+D:\CsharpProjects\StrategyExemplo04\StrategyExemplo04\obj\Debug\net6.0\refint\StrategyExemplo04.dll
+D:\CsharpProjects\StrategyExemplo04\StrategyExemplo04\obj\Debug\net6.0\StrategyExemplo04.pdb
+D:\CsharpProjects\StrategyExemplo04\StrategyExemplo04\obj\Debug\net6.0\StrategyExemplo04.genruntimeconfig.cache
+D:\CsharpProjects\StrategyExemplo04\StrategyExemplo04\obj\Debug\net6.0\ref\StrategyExemplo04.dll
