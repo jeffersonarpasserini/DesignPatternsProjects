@@ -23,7 +23,7 @@ public class EnviadoState implements State{
     @Override
     public void sucessoAoPagar() {
         try {
-            throw new Exception("Operação não suportada - pedido cancelado");
+            throw new Exception("Operação não suportada - pedido enviado");
         } catch (Exception ex) {
             Logger.getLogger(CanceladoState.class.getName()).log(Level.SEVERE, null, ex);
         }
@@ -32,7 +32,7 @@ public class EnviadoState implements State{
     @Override
     public void cancelarPedido() {
         try {
-            throw new Exception("Operação não suportada - pedido cancelado");
+            throw new Exception("Operação não suportada - pedido enviado");
         } catch (Exception ex) {
             Logger.getLogger(CanceladoState.class.getName()).log(Level.SEVERE, null, ex);
         }
@@ -41,7 +41,7 @@ public class EnviadoState implements State{
     @Override
     public void despacharPedido() {
         try {
-            throw new Exception("Operação não suportada - pedido cancelado");
+            throw new Exception("Operação não suportada - pedido enviado");
         } catch (Exception ex) {
             Logger.getLogger(CanceladoState.class.getName()).log(Level.SEVERE, null, ex);
         }

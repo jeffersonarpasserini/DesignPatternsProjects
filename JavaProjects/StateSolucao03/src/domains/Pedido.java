@@ -21,7 +21,6 @@ public class Pedido {
         //define o estado atual
         this.estadoAtual = new AguardandoPagamentoState(this);
     }
-    
     public void sucessoAoPagar(){
         try{
             System.out.println("Pedido Pago");
@@ -30,7 +29,6 @@ public class Pedido {
             System.out.println(e.getMessage());
         }
     }
-    
     public void cancelarPedido(){
         try{
             System.out.println("Pedido Cancelar");
@@ -39,7 +37,6 @@ public class Pedido {
             System.out.println(e.getMessage());
         }
     }
-    
     public void despacharPedido(){
         try{
             System.out.println("Pedido Enviado");
@@ -48,7 +45,6 @@ public class Pedido {
             System.out.println(e.getMessage());
         }
     }
-
     public void setEstadoAtual(State estadoAtual) {
         this.estadoAtual = estadoAtual;
     }
