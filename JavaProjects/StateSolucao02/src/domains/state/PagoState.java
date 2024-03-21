@@ -31,7 +31,7 @@ public class PagoState implements State{
 
     @Override
     public void cancelarPedido() {
-        this.pedido.setEstadoAtual(pedido.getEnviado());
+        this.pedido.setEstadoAtual(pedido.getCancelado());
     }
 
     @Override
