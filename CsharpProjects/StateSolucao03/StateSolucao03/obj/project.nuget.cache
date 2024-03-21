@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nrTxz0lDJZ/B/qjPxOGd1sf6GdOj0/sJGpqhjYap2uQPUqNDEnERylegDufFCczmJwZr7YekT9K4BmXzceyuUg==",
+  "dgSpecHash": "DM1woyAl1M8GOpvBcLVuNHjRudehRuUsnsmsWgj9moao8rp+cX2IoqWrqG7wJnPhVL9PpMd/94AvmNi3d4ISMg==",
   "success": true,
-  "projectFilePath": "D:\\Projetos\\DesignPatternsProjects\\CsharpProjects\\StateSolucao03\\StateSolucao03\\StateSolucao03.csproj",
+  "projectFilePath": "D:\\DesignPatternsProjects\\CsharpProjects\\StateSolucao03\\StateSolucao03\\StateSolucao03.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

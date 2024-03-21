@@ -18,20 +18,17 @@ namespace StateSolucao03.domains.state
 
         void State.cancelarPedido()
         {
-            throw new Exception("Operacao não suportada, " +
-                "pedido foi cancelado");
+            throw new Exception("Operacao não suportada, pedido foi cancelado");
         }
 
         void State.despacharPedido()
         {
-            throw new Exception("Operacao não suportada, " +
-                "pedido foi cancelado");
+            throw new Exception("Operacao não suportada, pedido foi cancelado");
         }
 
         void State.sucessoAoPagar()
         {
-            throw new Exception("Operacao não suportada, " +
-                "pedido foi cancelado");
+            throw new Exception("Operacao não suportada, pedido foi cancelado");
         }
     }
 }
