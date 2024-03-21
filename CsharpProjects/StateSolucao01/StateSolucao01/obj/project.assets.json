@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DesignPatternsProjects\\CsharpProjects\\StateSolucao01\\StateSolucao01\\StateSolucao01.csproj",
+      "projectUniqueName": "D:\\Projetos\\DesignPatternsProjects\\CsharpProjects\\StateSolucao01\\StateSolucao01\\StateSolucao01.csproj",
       "projectName": "StateSolucao01",
-      "projectPath": "D:\\DesignPatternsProjects\\CsharpProjects\\StateSolucao01\\StateSolucao01\\StateSolucao01.csproj",
+      "projectPath": "D:\\Projetos\\DesignPatternsProjects\\CsharpProjects\\StateSolucao01\\StateSolucao01\\StateSolucao01.csproj",
       "packagesPath": "C:\\Users\\jeffe\\.nuget\\packages\\",
-      "outputPath": "D:\\DesignPatternsProjects\\CsharpProjects\\StateSolucao01\\StateSolucao01\\obj\\",
+      "outputPath": "D:\\Projetos\\DesignPatternsProjects\\CsharpProjects\\StateSolucao01\\StateSolucao01\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,7 +33,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

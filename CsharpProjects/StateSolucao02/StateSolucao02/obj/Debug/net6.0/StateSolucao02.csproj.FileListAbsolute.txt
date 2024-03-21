@@ -1,0 +1,14 @@
+D:\Projetos\DesignPatternsProjects\CsharpProjects\StateSolucao02\StateSolucao02\bin\Debug\net6.0\StateSolucao02.exe
+D:\Projetos\DesignPatternsProjects\CsharpProjects\StateSolucao02\StateSolucao02\bin\Debug\net6.0\StateSolucao02.deps.json
+D:\Projetos\DesignPatternsProjects\CsharpProjects\StateSolucao02\StateSolucao02\bin\Debug\net6.0\StateSolucao02.runtimeconfig.json
+D:\Projetos\DesignPatternsProjects\CsharpProjects\StateSolucao02\StateSolucao02\bin\Debug\net6.0\StateSolucao02.dll
+D:\Projetos\DesignPatternsProjects\CsharpProjects\StateSolucao02\StateSolucao02\bin\Debug\net6.0\StateSolucao02.pdb
+D:\Projetos\DesignPatternsProjects\CsharpProjects\StateSolucao02\StateSolucao02\obj\Debug\net6.0\StateSolucao02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\DesignPatternsProjects\CsharpProjects\StateSolucao02\StateSolucao02\obj\Debug\net6.0\StateSolucao02.AssemblyInfoInputs.cache
+D:\Projetos\DesignPatternsProjects\CsharpProjects\StateSolucao02\StateSolucao02\obj\Debug\net6.0\StateSolucao02.AssemblyInfo.cs
+D:\Projetos\DesignPatternsProjects\CsharpProjects\StateSolucao02\StateSolucao02\obj\Debug\net6.0\StateSolucao02.csproj.CoreCompileInputs.cache
+D:\Projetos\DesignPatternsProjects\CsharpProjects\StateSolucao02\StateSolucao02\obj\Debug\net6.0\StateSolucao02.dll
+D:\Projetos\DesignPatternsProjects\CsharpProjects\StateSolucao02\StateSolucao02\obj\Debug\net6.0\refint\StateSolucao02.dll
+D:\Projetos\DesignPatternsProjects\CsharpProjects\StateSolucao02\StateSolucao02\obj\Debug\net6.0\StateSolucao02.pdb
+D:\Projetos\DesignPatternsProjects\CsharpProjects\StateSolucao02\StateSolucao02\obj\Debug\net6.0\StateSolucao02.genruntimeconfig.cache
+D:\Projetos\DesignPatternsProjects\CsharpProjects\StateSolucao02\StateSolucao02\obj\Debug\net6.0\ref\StateSolucao02.dll
