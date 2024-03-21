@@ -1,5 +1,5 @@
-## Design Patterns
+Design Patterns
 
-#Material de Estudo
+Material de Estudo
 
-#Protótipos desenvolvidos em Java e C#
+Protótipos desenvolvidos em Java e C#
