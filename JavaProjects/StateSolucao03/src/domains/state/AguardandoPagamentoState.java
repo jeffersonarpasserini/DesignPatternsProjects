@@ -22,12 +22,12 @@ public class AguardandoPagamentoState implements State{
 
     @Override
     public void sucessoAoPagar() {
-        this.pedido.setEstadoAtual(pedido.getPago());
+        this.pedido.setEstadoAtual(new PagoState(pedido));
     }
 
     @Override
     public void cancelarPedido() {
-        this.pedido.setEstadoAtual(pedido.getCancelado());
+        this.pedido.setEstadoAtual(new CanceladoState(pedido));
     }
 
     @Override

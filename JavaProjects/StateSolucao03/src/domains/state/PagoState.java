@@ -12,18 +12,18 @@ import java.util.logging.Logger;
  *
  * @author jeffe
  */
-public class CanceladoState implements State{
-    
+public class PagoState implements State{
+
     private Pedido pedido;
 
-    public CanceladoState(Pedido pedido) {
+    public PagoState(Pedido pedido) {
         this.pedido = pedido;
     }
     
     @Override
     public void sucessoAoPagar() {
         try {
-            throw new Exception("Operação não suportada - pedido cancelado");
+            throw new Exception("Operação não suportada - pedido já foi pago");
         } catch (Exception ex) {
             Logger.getLogger(CanceladoState.class.getName()).log(Level.SEVERE, null, ex);
         }
@@ -31,19 +31,12 @@ public class CanceladoState implements State{
 
     @Override
     public void cancelarPedido() {
-        try {
-            throw new Exception("Operação não suportada - pedido cancelado");
-        } catch (Exception ex) {
-            Logger.getLogger(CanceladoState.class.getName()).log(Level.SEVERE, null, ex);
-        }
+        this.pedido.setEstadoAtual(new CanceladoState(pedido));
     }
 
     @Override
     public void despacharPedido() {
-        try {
-            throw new Exception("Operação não suportada - pedido cancelado");
-        } catch (Exception ex) {
-            Logger.getLogger(CanceladoState.class.getName()).log(Level.SEVERE, null, ex);
-        }
+        this.pedido.setEstadoAtual(new EnviadoState(pedido));
     }
+    
 }
