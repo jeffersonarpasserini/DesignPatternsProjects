@@ -27,8 +27,9 @@ public class StateSolucao03 {
             System.out.println("---------- Pedido 02 ------------------");
             Pedido pedido2 = new Pedido();
             pedido2.sucessoAoPagar();
-            pedido2.despacharPedido();
             pedido2.cancelarPedido();
+            pedido2.despacharPedido();
+            
 
 
         } catch (Exception e)

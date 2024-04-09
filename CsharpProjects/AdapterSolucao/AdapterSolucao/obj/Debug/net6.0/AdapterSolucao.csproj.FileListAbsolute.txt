@@ -1,0 +1,14 @@
+D:\Projetos\DesignPatternsProjects\CsharpProjects\AdapterSolucao\AdapterSolucao\bin\Debug\net6.0\AdapterSolucao.exe
+D:\Projetos\DesignPatternsProjects\CsharpProjects\AdapterSolucao\AdapterSolucao\bin\Debug\net6.0\AdapterSolucao.deps.json
+D:\Projetos\DesignPatternsProjects\CsharpProjects\AdapterSolucao\AdapterSolucao\bin\Debug\net6.0\AdapterSolucao.runtimeconfig.json
+D:\Projetos\DesignPatternsProjects\CsharpProjects\AdapterSolucao\AdapterSolucao\bin\Debug\net6.0\AdapterSolucao.dll
+D:\Projetos\DesignPatternsProjects\CsharpProjects\AdapterSolucao\AdapterSolucao\bin\Debug\net6.0\AdapterSolucao.pdb
+D:\Projetos\DesignPatternsProjects\CsharpProjects\AdapterSolucao\AdapterSolucao\obj\Debug\net6.0\AdapterSolucao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\DesignPatternsProjects\CsharpProjects\AdapterSolucao\AdapterSolucao\obj\Debug\net6.0\AdapterSolucao.AssemblyInfoInputs.cache
+D:\Projetos\DesignPatternsProjects\CsharpProjects\AdapterSolucao\AdapterSolucao\obj\Debug\net6.0\AdapterSolucao.AssemblyInfo.cs
+D:\Projetos\DesignPatternsProjects\CsharpProjects\AdapterSolucao\AdapterSolucao\obj\Debug\net6.0\AdapterSolucao.csproj.CoreCompileInputs.cache
+D:\Projetos\DesignPatternsProjects\CsharpProjects\AdapterSolucao\AdapterSolucao\obj\Debug\net6.0\AdapterSolucao.dll
+D:\Projetos\DesignPatternsProjects\CsharpProjects\AdapterSolucao\AdapterSolucao\obj\Debug\net6.0\refint\AdapterSolucao.dll
+D:\Projetos\DesignPatternsProjects\CsharpProjects\AdapterSolucao\AdapterSolucao\obj\Debug\net6.0\AdapterSolucao.pdb
+D:\Projetos\DesignPatternsProjects\CsharpProjects\AdapterSolucao\AdapterSolucao\obj\Debug\net6.0\AdapterSolucao.genruntimeconfig.cache
+D:\Projetos\DesignPatternsProjects\CsharpProjects\AdapterSolucao\AdapterSolucao\obj\Debug\net6.0\ref\AdapterSolucao.dll
