@@ -1,0 +1,14 @@
+D:\Projetos\DesignPatternsProjects\CsharpProjects\FacadeSolucao\FacadeSolucao\bin\Debug\net6.0\FacadeSolucao.exe
+D:\Projetos\DesignPatternsProjects\CsharpProjects\FacadeSolucao\FacadeSolucao\bin\Debug\net6.0\FacadeSolucao.deps.json
+D:\Projetos\DesignPatternsProjects\CsharpProjects\FacadeSolucao\FacadeSolucao\bin\Debug\net6.0\FacadeSolucao.runtimeconfig.json
+D:\Projetos\DesignPatternsProjects\CsharpProjects\FacadeSolucao\FacadeSolucao\bin\Debug\net6.0\FacadeSolucao.dll
+D:\Projetos\DesignPatternsProjects\CsharpProjects\FacadeSolucao\FacadeSolucao\bin\Debug\net6.0\FacadeSolucao.pdb
+D:\Projetos\DesignPatternsProjects\CsharpProjects\FacadeSolucao\FacadeSolucao\obj\Debug\net6.0\FacadeSolucao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\DesignPatternsProjects\CsharpProjects\FacadeSolucao\FacadeSolucao\obj\Debug\net6.0\FacadeSolucao.AssemblyInfoInputs.cache
+D:\Projetos\DesignPatternsProjects\CsharpProjects\FacadeSolucao\FacadeSolucao\obj\Debug\net6.0\FacadeSolucao.AssemblyInfo.cs
+D:\Projetos\DesignPatternsProjects\CsharpProjects\FacadeSolucao\FacadeSolucao\obj\Debug\net6.0\FacadeSolucao.csproj.CoreCompileInputs.cache
+D:\Projetos\DesignPatternsProjects\CsharpProjects\FacadeSolucao\FacadeSolucao\obj\Debug\net6.0\FacadeSolucao.dll
+D:\Projetos\DesignPatternsProjects\CsharpProjects\FacadeSolucao\FacadeSolucao\obj\Debug\net6.0\refint\FacadeSolucao.dll
+D:\Projetos\DesignPatternsProjects\CsharpProjects\FacadeSolucao\FacadeSolucao\obj\Debug\net6.0\FacadeSolucao.pdb
+D:\Projetos\DesignPatternsProjects\CsharpProjects\FacadeSolucao\FacadeSolucao\obj\Debug\net6.0\FacadeSolucao.genruntimeconfig.cache
+D:\Projetos\DesignPatternsProjects\CsharpProjects\FacadeSolucao\FacadeSolucao\obj\Debug\net6.0\ref\FacadeSolucao.dll
