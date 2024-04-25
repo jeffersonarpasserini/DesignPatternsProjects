@@ -1,0 +1,15 @@
+C:\Projetos\DesignPatternsProjects\CsharpProjects\FactoryMethodSolucao\FactoryMethodSolucao\bin\Debug\net8.0\FactoryMethodSolucao.exe
+C:\Projetos\DesignPatternsProjects\CsharpProjects\FactoryMethodSolucao\FactoryMethodSolucao\bin\Debug\net8.0\FactoryMethodSolucao.deps.json
+C:\Projetos\DesignPatternsProjects\CsharpProjects\FactoryMethodSolucao\FactoryMethodSolucao\bin\Debug\net8.0\FactoryMethodSolucao.runtimeconfig.json
+C:\Projetos\DesignPatternsProjects\CsharpProjects\FactoryMethodSolucao\FactoryMethodSolucao\bin\Debug\net8.0\FactoryMethodSolucao.dll
+C:\Projetos\DesignPatternsProjects\CsharpProjects\FactoryMethodSolucao\FactoryMethodSolucao\bin\Debug\net8.0\FactoryMethodSolucao.pdb
+C:\Projetos\DesignPatternsProjects\CsharpProjects\FactoryMethodSolucao\FactoryMethodSolucao\obj\Debug\net8.0\FactoryMethodSolucao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\DesignPatternsProjects\CsharpProjects\FactoryMethodSolucao\FactoryMethodSolucao\obj\Debug\net8.0\FactoryMethodSolucao.AssemblyInfoInputs.cache
+C:\Projetos\DesignPatternsProjects\CsharpProjects\FactoryMethodSolucao\FactoryMethodSolucao\obj\Debug\net8.0\FactoryMethodSolucao.AssemblyInfo.cs
+C:\Projetos\DesignPatternsProjects\CsharpProjects\FactoryMethodSolucao\FactoryMethodSolucao\obj\Debug\net8.0\FactoryMethodSolucao.csproj.CoreCompileInputs.cache
+C:\Projetos\DesignPatternsProjects\CsharpProjects\FactoryMethodSolucao\FactoryMethodSolucao\obj\Debug\net8.0\FactoryMethodSolucao.sourcelink.json
+C:\Projetos\DesignPatternsProjects\CsharpProjects\FactoryMethodSolucao\FactoryMethodSolucao\obj\Debug\net8.0\FactoryMethodSolucao.dll
+C:\Projetos\DesignPatternsProjects\CsharpProjects\FactoryMethodSolucao\FactoryMethodSolucao\obj\Debug\net8.0\refint\FactoryMethodSolucao.dll
+C:\Projetos\DesignPatternsProjects\CsharpProjects\FactoryMethodSolucao\FactoryMethodSolucao\obj\Debug\net8.0\FactoryMethodSolucao.pdb
+C:\Projetos\DesignPatternsProjects\CsharpProjects\FactoryMethodSolucao\FactoryMethodSolucao\obj\Debug\net8.0\FactoryMethodSolucao.genruntimeconfig.cache
+C:\Projetos\DesignPatternsProjects\CsharpProjects\FactoryMethodSolucao\FactoryMethodSolucao\obj\Debug\net8.0\ref\FactoryMethodSolucao.dll
