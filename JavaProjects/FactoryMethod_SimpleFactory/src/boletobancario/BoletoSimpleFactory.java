@@ -10,7 +10,8 @@ package boletobancario;
  */
 public class BoletoSimpleFactory {
     
-    public Boleto criarBoleto(int vencimento, double valor) throws Exception{
+    public Boleto criarBoleto(int vencimento, double valor) 
+            throws Exception{
         Boleto boleto;
         switch (vencimento) {
             case 10:
@@ -26,6 +27,5 @@ public class BoletoSimpleFactory {
                 throw new Exception("Vencimento indisponível");
         }
         return boleto;
-    }
-    
+    }  
 }
