@@ -3,9 +3,9 @@ using AbstractFactorySolucao.Boleto.Familia;
 
 Banco banco = new Banco();
 
-CaixaCalculosFactory factoryCaixa = new CaixaCalculosFactory();
+CalculosFactory factoryCaixa = new CaixaCalculosFactory();
 
-BBCalculosFactory factoryBB = new BBCalculosFactory();
+CalculosFactory factoryBB = new BBCalculosFactory();
 
 Console.WriteLine("cria boleto caixa");
 banco.gerarBoleto(100, factoryCaixa);
