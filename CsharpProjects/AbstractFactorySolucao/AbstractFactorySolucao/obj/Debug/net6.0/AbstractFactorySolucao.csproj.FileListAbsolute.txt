@@ -1,0 +1,14 @@
+D:\Projetos\DesignPatternsProjects\CsharpProjects\AbstractFactorySolucao\AbstractFactorySolucao\bin\Debug\net6.0\AbstractFactorySolucao.exe
+D:\Projetos\DesignPatternsProjects\CsharpProjects\AbstractFactorySolucao\AbstractFactorySolucao\bin\Debug\net6.0\AbstractFactorySolucao.deps.json
+D:\Projetos\DesignPatternsProjects\CsharpProjects\AbstractFactorySolucao\AbstractFactorySolucao\bin\Debug\net6.0\AbstractFactorySolucao.runtimeconfig.json
+D:\Projetos\DesignPatternsProjects\CsharpProjects\AbstractFactorySolucao\AbstractFactorySolucao\bin\Debug\net6.0\AbstractFactorySolucao.dll
+D:\Projetos\DesignPatternsProjects\CsharpProjects\AbstractFactorySolucao\AbstractFactorySolucao\bin\Debug\net6.0\AbstractFactorySolucao.pdb
+D:\Projetos\DesignPatternsProjects\CsharpProjects\AbstractFactorySolucao\AbstractFactorySolucao\obj\Debug\net6.0\AbstractFactorySolucao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\DesignPatternsProjects\CsharpProjects\AbstractFactorySolucao\AbstractFactorySolucao\obj\Debug\net6.0\AbstractFactorySolucao.AssemblyInfoInputs.cache
+D:\Projetos\DesignPatternsProjects\CsharpProjects\AbstractFactorySolucao\AbstractFactorySolucao\obj\Debug\net6.0\AbstractFactorySolucao.AssemblyInfo.cs
+D:\Projetos\DesignPatternsProjects\CsharpProjects\AbstractFactorySolucao\AbstractFactorySolucao\obj\Debug\net6.0\AbstractFactorySolucao.csproj.CoreCompileInputs.cache
+D:\Projetos\DesignPatternsProjects\CsharpProjects\AbstractFactorySolucao\AbstractFactorySolucao\obj\Debug\net6.0\AbstractFactorySolucao.dll
+D:\Projetos\DesignPatternsProjects\CsharpProjects\AbstractFactorySolucao\AbstractFactorySolucao\obj\Debug\net6.0\refint\AbstractFactorySolucao.dll
+D:\Projetos\DesignPatternsProjects\CsharpProjects\AbstractFactorySolucao\AbstractFactorySolucao\obj\Debug\net6.0\AbstractFactorySolucao.pdb
+D:\Projetos\DesignPatternsProjects\CsharpProjects\AbstractFactorySolucao\AbstractFactorySolucao\obj\Debug\net6.0\AbstractFactorySolucao.genruntimeconfig.cache
+D:\Projetos\DesignPatternsProjects\CsharpProjects\AbstractFactorySolucao\AbstractFactorySolucao\obj\Debug\net6.0\ref\AbstractFactorySolucao.dll
