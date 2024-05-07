@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos\\DesignPatternsProjects\\CsharpProjects\\AbstractFactorySolucao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63811115-C718-4C03-9E05-51520FBBEC58}|AbstractFactorySolucao\\AbstractFactorySolucao.csproj|c:\\projetos\\designpatternsprojects\\csharpprojects\\abstractfactorysolucao\\abstractfactorysolucao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63811115-C718-4C03-9E05-51520FBBEC58}|AbstractFactorySolucao\\AbstractFactorySolucao.csproj|solutionrelative:abstractfactorysolucao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63811115-C718-4C03-9E05-51520FBBEC58}|AbstractFactorySolucao\\AbstractFactorySolucao.csproj|c:\\projetos\\designpatternsprojects\\csharpprojects\\abstractfactorysolucao\\abstractfactorysolucao\\boleto\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63811115-C718-4C03-9E05-51520FBBEC58}|AbstractFactorySolucao\\AbstractFactorySolucao.csproj|solutionrelative:abstractfactorysolucao\\boleto\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Banco.cs",
+              "DocumentMoniker": "C:\\Projetos\\DesignPatternsProjects\\CsharpProjects\\AbstractFactorySolucao\\AbstractFactorySolucao\\Boleto\\Banco.cs",
+              "RelativeDocumentMoniker": "AbstractFactorySolucao\\Boleto\\Banco.cs",
+              "ToolTip": "C:\\Projetos\\DesignPatternsProjects\\CsharpProjects\\AbstractFactorySolucao\\AbstractFactorySolucao\\Boleto\\Banco.cs",
+              "RelativeToolTip": "AbstractFactorySolucao\\Boleto\\Banco.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T21:54:59.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\DesignPatternsProjects\\CsharpProjects\\AbstractFactorySolucao\\AbstractFactorySolucao\\Program.cs",
+              "RelativeDocumentMoniker": "AbstractFactorySolucao\\Program.cs",
+              "ToolTip": "C:\\Projetos\\DesignPatternsProjects\\CsharpProjects\\AbstractFactorySolucao\\AbstractFactorySolucao\\Program.cs",
+              "RelativeToolTip": "AbstractFactorySolucao\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T21:37:08.357Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

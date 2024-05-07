@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "SRaJnOBoB+tRXn/XNrd12T/AJe/Zr/0QOCiY9dyiWt0S52Hrwb23flSE/ZUrH+C9nc05Qd9dyUL4y2kojMYc4w==",
+  "dgSpecHash": "C2nhdr+MPudYkyN2U0D0/aGbhfvTZP0CM9yP4EIk4nLzKTOXv6ciFUZN5S+p9uSEJvCtNkXkzc5dqzhFNlefrw==",
   "success": true,
-  "projectFilePath": "D:\\Projetos\\DesignPatternsProjects\\CsharpProjects\\AbstractFactorySolucao\\AbstractFactorySolucao\\AbstractFactorySolucao.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Projetos\\DesignPatternsProjects\\CsharpProjects\\AbstractFactorySolucao\\AbstractFactorySolucao\\AbstractFactorySolucao.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jeffe\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\jeffe\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\jeffe\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\jeffe\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
   "logs": []
 }
