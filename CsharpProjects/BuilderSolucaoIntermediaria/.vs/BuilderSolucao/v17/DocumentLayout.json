@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos\\DesignPatternsProjects\\CsharpProjects\\BuilderSolucaoIntermediaria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45E5F79E-8A38-4678-B6DD-5781A5DBB81A}|BuilderSolucao\\BuilderSolucaoIntermediaria.csproj|c:\\projetos\\designpatternsprojects\\csharpprojects\\buildersolucaointermediaria\\buildersolucao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E5F79E-8A38-4678-B6DD-5781A5DBB81A}|BuilderSolucao\\BuilderSolucaoIntermediaria.csproj|solutionrelative:buildersolucao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E5F79E-8A38-4678-B6DD-5781A5DBB81A}|BuilderSolucao\\BuilderSolucaoIntermediaria.csproj|c:\\projetos\\designpatternsprojects\\csharpprojects\\buildersolucaointermediaria\\buildersolucao\\pdf\\buildera3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E5F79E-8A38-4678-B6DD-5781A5DBB81A}|BuilderSolucao\\BuilderSolucaoIntermediaria.csproj|solutionrelative:buildersolucao\\pdf\\buildera3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E5F79E-8A38-4678-B6DD-5781A5DBB81A}|BuilderSolucao\\BuilderSolucaoIntermediaria.csproj|c:\\projetos\\designpatternsprojects\\csharpprojects\\buildersolucaointermediaria\\buildersolucao\\pdf\\buildera4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E5F79E-8A38-4678-B6DD-5781A5DBB81A}|BuilderSolucao\\BuilderSolucaoIntermediaria.csproj|solutionrelative:buildersolucao\\pdf\\buildera4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E5F79E-8A38-4678-B6DD-5781A5DBB81A}|BuilderSolucao\\BuilderSolucaoIntermediaria.csproj|c:\\projetos\\designpatternsprojects\\csharpprojects\\buildersolucaointermediaria\\buildersolucao\\pdf\\geradorpdf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E5F79E-8A38-4678-B6DD-5781A5DBB81A}|BuilderSolucao\\BuilderSolucaoIntermediaria.csproj|solutionrelative:buildersolucao\\pdf\\geradorpdf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BuilderA3.cs",
+              "DocumentMoniker": "C:\\Projetos\\DesignPatternsProjects\\CsharpProjects\\BuilderSolucaoIntermediaria\\BuilderSolucao\\PDF\\BuilderA3.cs",
+              "RelativeDocumentMoniker": "BuilderSolucao\\PDF\\BuilderA3.cs",
+              "ToolTip": "C:\\Projetos\\DesignPatternsProjects\\CsharpProjects\\BuilderSolucaoIntermediaria\\BuilderSolucao\\PDF\\BuilderA3.cs",
+              "RelativeToolTip": "BuilderSolucao\\PDF\\BuilderA3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T18:04:56.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BuilderA4.cs",
+              "DocumentMoniker": "C:\\Projetos\\DesignPatternsProjects\\CsharpProjects\\BuilderSolucaoIntermediaria\\BuilderSolucao\\PDF\\BuilderA4.cs",
+              "RelativeDocumentMoniker": "BuilderSolucao\\PDF\\BuilderA4.cs",
+              "ToolTip": "C:\\Projetos\\DesignPatternsProjects\\CsharpProjects\\BuilderSolucaoIntermediaria\\BuilderSolucao\\PDF\\BuilderA4.cs",
+              "RelativeToolTip": "BuilderSolucao\\PDF\\BuilderA4.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T18:04:46.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GeradorPDF.cs",
+              "DocumentMoniker": "C:\\Projetos\\DesignPatternsProjects\\CsharpProjects\\BuilderSolucaoIntermediaria\\BuilderSolucao\\PDF\\GeradorPDF.cs",
+              "RelativeDocumentMoniker": "BuilderSolucao\\PDF\\GeradorPDF.cs",
+              "ToolTip": "C:\\Projetos\\DesignPatternsProjects\\CsharpProjects\\BuilderSolucaoIntermediaria\\BuilderSolucao\\PDF\\GeradorPDF.cs",
+              "RelativeToolTip": "BuilderSolucao\\PDF\\GeradorPDF.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T17:50:18.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\DesignPatternsProjects\\CsharpProjects\\BuilderSolucaoIntermediaria\\BuilderSolucao\\Program.cs",
+              "RelativeDocumentMoniker": "BuilderSolucao\\Program.cs",
+              "ToolTip": "C:\\Projetos\\DesignPatternsProjects\\CsharpProjects\\BuilderSolucaoIntermediaria\\BuilderSolucao\\Program.cs",
+              "RelativeToolTip": "BuilderSolucao\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T16:58:43.932Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

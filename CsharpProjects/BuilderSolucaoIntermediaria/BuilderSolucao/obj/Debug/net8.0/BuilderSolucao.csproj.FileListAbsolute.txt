@@ -1,0 +1,15 @@
+C:\Projetos\DesignPatternsProjects\CsharpProjects\BuilderSolucao\BuilderSolucao\bin\Debug\net8.0\BuilderSolucao.exe
+C:\Projetos\DesignPatternsProjects\CsharpProjects\BuilderSolucao\BuilderSolucao\bin\Debug\net8.0\BuilderSolucao.deps.json
+C:\Projetos\DesignPatternsProjects\CsharpProjects\BuilderSolucao\BuilderSolucao\bin\Debug\net8.0\BuilderSolucao.runtimeconfig.json
+C:\Projetos\DesignPatternsProjects\CsharpProjects\BuilderSolucao\BuilderSolucao\bin\Debug\net8.0\BuilderSolucao.dll
+C:\Projetos\DesignPatternsProjects\CsharpProjects\BuilderSolucao\BuilderSolucao\bin\Debug\net8.0\BuilderSolucao.pdb
+C:\Projetos\DesignPatternsProjects\CsharpProjects\BuilderSolucao\BuilderSolucao\obj\Debug\net8.0\BuilderSolucao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\DesignPatternsProjects\CsharpProjects\BuilderSolucao\BuilderSolucao\obj\Debug\net8.0\BuilderSolucao.AssemblyInfoInputs.cache
+C:\Projetos\DesignPatternsProjects\CsharpProjects\BuilderSolucao\BuilderSolucao\obj\Debug\net8.0\BuilderSolucao.AssemblyInfo.cs
+C:\Projetos\DesignPatternsProjects\CsharpProjects\BuilderSolucao\BuilderSolucao\obj\Debug\net8.0\BuilderSolucao.csproj.CoreCompileInputs.cache
+C:\Projetos\DesignPatternsProjects\CsharpProjects\BuilderSolucao\BuilderSolucao\obj\Debug\net8.0\BuilderSolucao.sourcelink.json
+C:\Projetos\DesignPatternsProjects\CsharpProjects\BuilderSolucao\BuilderSolucao\obj\Debug\net8.0\BuilderSolucao.dll
+C:\Projetos\DesignPatternsProjects\CsharpProjects\BuilderSolucao\BuilderSolucao\obj\Debug\net8.0\refint\BuilderSolucao.dll
+C:\Projetos\DesignPatternsProjects\CsharpProjects\BuilderSolucao\BuilderSolucao\obj\Debug\net8.0\BuilderSolucao.pdb
+C:\Projetos\DesignPatternsProjects\CsharpProjects\BuilderSolucao\BuilderSolucao\obj\Debug\net8.0\BuilderSolucao.genruntimeconfig.cache
+C:\Projetos\DesignPatternsProjects\CsharpProjects\BuilderSolucao\BuilderSolucao\obj\Debug\net8.0\ref\BuilderSolucao.dll
