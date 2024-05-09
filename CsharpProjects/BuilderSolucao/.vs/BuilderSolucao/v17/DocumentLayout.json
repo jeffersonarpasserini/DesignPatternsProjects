@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Projetos\\DesignPatternsProjects\\CsharpProjects\\BuilderSolucao\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{665A0AB7-6B1F-487E-A7F8-FBE042074C20}|BuilderSolucao\\BuilderSolucao.csproj|c:\\projetos\\designpatternsprojects\\csharpprojects\\buildersolucao\\buildersolucao\\pdf\\geradorpdfdirector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{665A0AB7-6B1F-487E-A7F8-FBE042074C20}|BuilderSolucao\\BuilderSolucao.csproj|solutionrelative:buildersolucao\\pdf\\geradorpdfdirector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{665A0AB7-6B1F-487E-A7F8-FBE042074C20}|BuilderSolucao\\BuilderSolucao.csproj|c:\\projetos\\designpatternsprojects\\csharpprojects\\buildersolucao\\buildersolucao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{665A0AB7-6B1F-487E-A7F8-FBE042074C20}|BuilderSolucao\\BuilderSolucao.csproj|solutionrelative:buildersolucao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -23,27 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "GeradorPDFDirector.cs",
-              "DocumentMoniker": "C:\\Projetos\\DesignPatternsProjects\\CsharpProjects\\BuilderSolucao\\BuilderSolucao\\PDF\\GeradorPDFDirector.cs",
-              "RelativeDocumentMoniker": "BuilderSolucao\\PDF\\GeradorPDFDirector.cs",
-              "ToolTip": "C:\\Projetos\\DesignPatternsProjects\\CsharpProjects\\BuilderSolucao\\BuilderSolucao\\PDF\\GeradorPDFDirector.cs",
-              "RelativeToolTip": "BuilderSolucao\\PDF\\GeradorPDFDirector.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAgwDEAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T19:58:28.619Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Projetos\\DesignPatternsProjects\\CsharpProjects\\BuilderSolucao\\BuilderSolucao\\Program.cs",
               "RelativeDocumentMoniker": "BuilderSolucao\\Program.cs",
               "ToolTip": "C:\\Projetos\\DesignPatternsProjects\\CsharpProjects\\BuilderSolucao\\BuilderSolucao\\Program.cs",
               "RelativeToolTip": "BuilderSolucao\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAkAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T18:36:35.947Z",
+              "WhenOpened": "2024-05-09T15:31:21.061Z",
               "EditorCaption": ""
             }
           ]

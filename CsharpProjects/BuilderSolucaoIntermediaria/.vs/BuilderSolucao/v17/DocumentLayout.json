@@ -13,10 +13,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{45E5F79E-8A38-4678-B6DD-5781A5DBB81A}|BuilderSolucao\\BuilderSolucaoIntermediaria.csproj|c:\\projetos\\designpatternsprojects\\csharpprojects\\buildersolucaointermediaria\\buildersolucao\\pdf\\buildera4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{45E5F79E-8A38-4678-B6DD-5781A5DBB81A}|BuilderSolucao\\BuilderSolucaoIntermediaria.csproj|solutionrelative:buildersolucao\\pdf\\buildera4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45E5F79E-8A38-4678-B6DD-5781A5DBB81A}|BuilderSolucao\\BuilderSolucaoIntermediaria.csproj|c:\\projetos\\designpatternsprojects\\csharpprojects\\buildersolucaointermediaria\\buildersolucao\\pdf\\geradorpdf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45E5F79E-8A38-4678-B6DD-5781A5DBB81A}|BuilderSolucao\\BuilderSolucaoIntermediaria.csproj|solutionrelative:buildersolucao\\pdf\\geradorpdf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,8 +22,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\DesignPatternsProjects\\CsharpProjects\\BuilderSolucaoIntermediaria\\BuilderSolucao\\Program.cs",
+              "RelativeDocumentMoniker": "BuilderSolucao\\Program.cs",
+              "ToolTip": "C:\\Projetos\\DesignPatternsProjects\\CsharpProjects\\BuilderSolucaoIntermediaria\\BuilderSolucao\\Program.cs",
+              "RelativeToolTip": "BuilderSolucao\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T15:47:04.636Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -51,31 +60,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-08T18:04:46.661Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "GeradorPDF.cs",
-              "DocumentMoniker": "C:\\Projetos\\DesignPatternsProjects\\CsharpProjects\\BuilderSolucaoIntermediaria\\BuilderSolucao\\PDF\\GeradorPDF.cs",
-              "RelativeDocumentMoniker": "BuilderSolucao\\PDF\\GeradorPDF.cs",
-              "ToolTip": "C:\\Projetos\\DesignPatternsProjects\\CsharpProjects\\BuilderSolucaoIntermediaria\\BuilderSolucao\\PDF\\GeradorPDF.cs",
-              "RelativeToolTip": "BuilderSolucao\\PDF\\GeradorPDF.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T17:50:18.431Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Projetos\\DesignPatternsProjects\\CsharpProjects\\BuilderSolucaoIntermediaria\\BuilderSolucao\\Program.cs",
-              "RelativeDocumentMoniker": "BuilderSolucao\\Program.cs",
-              "ToolTip": "C:\\Projetos\\DesignPatternsProjects\\CsharpProjects\\BuilderSolucaoIntermediaria\\BuilderSolucao\\Program.cs",
-              "RelativeToolTip": "BuilderSolucao\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T16:58:43.932Z",
-              "EditorCaption": ""
             }
           ]
         }
