@@ -1,0 +1,15 @@
+D:\Projetos\DesignPatternsProjects\CsharpProjects\IteratorSolucao\IteratorSolucao\bin\Debug\net8.0\IteratorSolucao.exe
+D:\Projetos\DesignPatternsProjects\CsharpProjects\IteratorSolucao\IteratorSolucao\bin\Debug\net8.0\IteratorSolucao.deps.json
+D:\Projetos\DesignPatternsProjects\CsharpProjects\IteratorSolucao\IteratorSolucao\bin\Debug\net8.0\IteratorSolucao.runtimeconfig.json
+D:\Projetos\DesignPatternsProjects\CsharpProjects\IteratorSolucao\IteratorSolucao\bin\Debug\net8.0\IteratorSolucao.dll
+D:\Projetos\DesignPatternsProjects\CsharpProjects\IteratorSolucao\IteratorSolucao\bin\Debug\net8.0\IteratorSolucao.pdb
+D:\Projetos\DesignPatternsProjects\CsharpProjects\IteratorSolucao\IteratorSolucao\obj\Debug\net8.0\IteratorSolucao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\DesignPatternsProjects\CsharpProjects\IteratorSolucao\IteratorSolucao\obj\Debug\net8.0\IteratorSolucao.AssemblyInfoInputs.cache
+D:\Projetos\DesignPatternsProjects\CsharpProjects\IteratorSolucao\IteratorSolucao\obj\Debug\net8.0\IteratorSolucao.AssemblyInfo.cs
+D:\Projetos\DesignPatternsProjects\CsharpProjects\IteratorSolucao\IteratorSolucao\obj\Debug\net8.0\IteratorSolucao.csproj.CoreCompileInputs.cache
+D:\Projetos\DesignPatternsProjects\CsharpProjects\IteratorSolucao\IteratorSolucao\obj\Debug\net8.0\IteratorSolucao.sourcelink.json
+D:\Projetos\DesignPatternsProjects\CsharpProjects\IteratorSolucao\IteratorSolucao\obj\Debug\net8.0\IteratorSolucao.dll
+D:\Projetos\DesignPatternsProjects\CsharpProjects\IteratorSolucao\IteratorSolucao\obj\Debug\net8.0\refint\IteratorSolucao.dll
+D:\Projetos\DesignPatternsProjects\CsharpProjects\IteratorSolucao\IteratorSolucao\obj\Debug\net8.0\IteratorSolucao.pdb
+D:\Projetos\DesignPatternsProjects\CsharpProjects\IteratorSolucao\IteratorSolucao\obj\Debug\net8.0\IteratorSolucao.genruntimeconfig.cache
+D:\Projetos\DesignPatternsProjects\CsharpProjects\IteratorSolucao\IteratorSolucao\obj\Debug\net8.0\ref\IteratorSolucao.dll
