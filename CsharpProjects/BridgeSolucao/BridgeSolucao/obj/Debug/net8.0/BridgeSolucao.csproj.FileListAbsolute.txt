@@ -1,0 +1,15 @@
+D:\Projetos\DesignPatternsProjects\CsharpProjects\BridgeSolucao\BridgeSolucao\bin\Debug\net8.0\BridgeSolucao.exe
+D:\Projetos\DesignPatternsProjects\CsharpProjects\BridgeSolucao\BridgeSolucao\bin\Debug\net8.0\BridgeSolucao.deps.json
+D:\Projetos\DesignPatternsProjects\CsharpProjects\BridgeSolucao\BridgeSolucao\bin\Debug\net8.0\BridgeSolucao.runtimeconfig.json
+D:\Projetos\DesignPatternsProjects\CsharpProjects\BridgeSolucao\BridgeSolucao\bin\Debug\net8.0\BridgeSolucao.dll
+D:\Projetos\DesignPatternsProjects\CsharpProjects\BridgeSolucao\BridgeSolucao\bin\Debug\net8.0\BridgeSolucao.pdb
+D:\Projetos\DesignPatternsProjects\CsharpProjects\BridgeSolucao\BridgeSolucao\obj\Debug\net8.0\BridgeSolucao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\DesignPatternsProjects\CsharpProjects\BridgeSolucao\BridgeSolucao\obj\Debug\net8.0\BridgeSolucao.AssemblyInfoInputs.cache
+D:\Projetos\DesignPatternsProjects\CsharpProjects\BridgeSolucao\BridgeSolucao\obj\Debug\net8.0\BridgeSolucao.AssemblyInfo.cs
+D:\Projetos\DesignPatternsProjects\CsharpProjects\BridgeSolucao\BridgeSolucao\obj\Debug\net8.0\BridgeSolucao.csproj.CoreCompileInputs.cache
+D:\Projetos\DesignPatternsProjects\CsharpProjects\BridgeSolucao\BridgeSolucao\obj\Debug\net8.0\BridgeSolucao.sourcelink.json
+D:\Projetos\DesignPatternsProjects\CsharpProjects\BridgeSolucao\BridgeSolucao\obj\Debug\net8.0\BridgeSolucao.dll
+D:\Projetos\DesignPatternsProjects\CsharpProjects\BridgeSolucao\BridgeSolucao\obj\Debug\net8.0\refint\BridgeSolucao.dll
+D:\Projetos\DesignPatternsProjects\CsharpProjects\BridgeSolucao\BridgeSolucao\obj\Debug\net8.0\BridgeSolucao.pdb
+D:\Projetos\DesignPatternsProjects\CsharpProjects\BridgeSolucao\BridgeSolucao\obj\Debug\net8.0\BridgeSolucao.genruntimeconfig.cache
+D:\Projetos\DesignPatternsProjects\CsharpProjects\BridgeSolucao\BridgeSolucao\obj\Debug\net8.0\ref\BridgeSolucao.dll

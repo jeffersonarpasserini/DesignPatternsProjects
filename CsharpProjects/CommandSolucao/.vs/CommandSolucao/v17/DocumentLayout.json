@@ -1,33 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Projetos\\DesignPatternsProjects\\CsharpProjects\\CommandSolucao\\",
+  "WorkspaceRootPath": "D:\\Projetos\\DesignPatternsProjects\\CsharpProjects\\CommandSolucao\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9210E013-AFB1-4254-9FAE-D8A94FF5A34C}|CommandSolucao\\CommandSolucao.csproj|c:\\projetos\\designpatternsprojects\\csharpprojects\\commandsolucao\\commandsolucao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9210E013-AFB1-4254-9FAE-D8A94FF5A34C}|CommandSolucao\\CommandSolucao.csproj|d:\\projetos\\designpatternsprojects\\csharpprojects\\commandsolucao\\commandsolucao\\devices\\lampada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9210E013-AFB1-4254-9FAE-D8A94FF5A34C}|CommandSolucao\\CommandSolucao.csproj|solutionrelative:commandsolucao\\devices\\lampada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9210E013-AFB1-4254-9FAE-D8A94FF5A34C}|CommandSolucao\\CommandSolucao.csproj|d:\\projetos\\designpatternsprojects\\csharpprojects\\commandsolucao\\commandsolucao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9210E013-AFB1-4254-9FAE-D8A94FF5A34C}|CommandSolucao\\CommandSolucao.csproj|solutionrelative:commandsolucao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9210E013-AFB1-4254-9FAE-D8A94FF5A34C}|CommandSolucao\\CommandSolucao.csproj|c:\\projetos\\designpatternsprojects\\csharpprojects\\commandsolucao\\commandsolucao\\aplicativo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9210E013-AFB1-4254-9FAE-D8A94FF5A34C}|CommandSolucao\\CommandSolucao.csproj|d:\\projetos\\designpatternsprojects\\csharpprojects\\commandsolucao\\commandsolucao\\aplicativo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9210E013-AFB1-4254-9FAE-D8A94FF5A34C}|CommandSolucao\\CommandSolucao.csproj|solutionrelative:commandsolucao\\aplicativo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9210E013-AFB1-4254-9FAE-D8A94FF5A34C}|CommandSolucao\\CommandSolucao.csproj|c:\\projetos\\designpatternsprojects\\csharpprojects\\commandsolucao\\commandsolucao\\commands\\mudartemperaturaarcondicionado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9210E013-AFB1-4254-9FAE-D8A94FF5A34C}|CommandSolucao\\CommandSolucao.csproj|d:\\projetos\\designpatternsprojects\\csharpprojects\\commandsolucao\\commandsolucao\\commands\\mudartemperaturaarcondicionado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9210E013-AFB1-4254-9FAE-D8A94FF5A34C}|CommandSolucao\\CommandSolucao.csproj|solutionrelative:commandsolucao\\commands\\mudartemperaturaarcondicionado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9210E013-AFB1-4254-9FAE-D8A94FF5A34C}|CommandSolucao\\CommandSolucao.csproj|c:\\projetos\\designpatternsprojects\\csharpprojects\\commandsolucao\\commandsolucao\\commands\\desligararcondicionado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9210E013-AFB1-4254-9FAE-D8A94FF5A34C}|CommandSolucao\\CommandSolucao.csproj|d:\\projetos\\designpatternsprojects\\csharpprojects\\commandsolucao\\commandsolucao\\commands\\desligararcondicionado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9210E013-AFB1-4254-9FAE-D8A94FF5A34C}|CommandSolucao\\CommandSolucao.csproj|solutionrelative:commandsolucao\\commands\\desligararcondicionado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9210E013-AFB1-4254-9FAE-D8A94FF5A34C}|CommandSolucao\\CommandSolucao.csproj|c:\\projetos\\designpatternsprojects\\csharpprojects\\commandsolucao\\commandsolucao\\commands\\desligarlampada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9210E013-AFB1-4254-9FAE-D8A94FF5A34C}|CommandSolucao\\CommandSolucao.csproj|d:\\projetos\\designpatternsprojects\\csharpprojects\\commandsolucao\\commandsolucao\\commands\\desligarlampada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9210E013-AFB1-4254-9FAE-D8A94FF5A34C}|CommandSolucao\\CommandSolucao.csproj|solutionrelative:commandsolucao\\commands\\desligarlampada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9210E013-AFB1-4254-9FAE-D8A94FF5A34C}|CommandSolucao\\CommandSolucao.csproj|c:\\projetos\\designpatternsprojects\\csharpprojects\\commandsolucao\\commandsolucao\\commands\\ligararcondicionado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9210E013-AFB1-4254-9FAE-D8A94FF5A34C}|CommandSolucao\\CommandSolucao.csproj|d:\\projetos\\designpatternsprojects\\csharpprojects\\commandsolucao\\commandsolucao\\commands\\ligararcondicionado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9210E013-AFB1-4254-9FAE-D8A94FF5A34C}|CommandSolucao\\CommandSolucao.csproj|solutionrelative:commandsolucao\\commands\\ligararcondicionado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9210E013-AFB1-4254-9FAE-D8A94FF5A34C}|CommandSolucao\\CommandSolucao.csproj|c:\\projetos\\designpatternsprojects\\csharpprojects\\commandsolucao\\commandsolucao\\commands\\ligarlampada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9210E013-AFB1-4254-9FAE-D8A94FF5A34C}|CommandSolucao\\CommandSolucao.csproj|d:\\projetos\\designpatternsprojects\\csharpprojects\\commandsolucao\\commandsolucao\\commands\\ligarlampada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9210E013-AFB1-4254-9FAE-D8A94FF5A34C}|CommandSolucao\\CommandSolucao.csproj|solutionrelative:commandsolucao\\commands\\ligarlampada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -43,10 +47,23 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Lampada.cs",
+              "DocumentMoniker": "D:\\Projetos\\DesignPatternsProjects\\CsharpProjects\\CommandSolucao\\CommandSolucao\\devices\\Lampada.cs",
+              "RelativeDocumentMoniker": "CommandSolucao\\devices\\Lampada.cs",
+              "ToolTip": "D:\\Projetos\\DesignPatternsProjects\\CsharpProjects\\CommandSolucao\\CommandSolucao\\devices\\Lampada.cs",
+              "RelativeToolTip": "CommandSolucao\\devices\\Lampada.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA5wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T14:18:07.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Projetos\\DesignPatternsProjects\\CsharpProjects\\CommandSolucao\\CommandSolucao\\Program.cs",
+              "DocumentMoniker": "D:\\Projetos\\DesignPatternsProjects\\CsharpProjects\\CommandSolucao\\CommandSolucao\\Program.cs",
               "RelativeDocumentMoniker": "CommandSolucao\\Program.cs",
-              "ToolTip": "C:\\Projetos\\DesignPatternsProjects\\CsharpProjects\\CommandSolucao\\CommandSolucao\\Program.cs",
+              "ToolTip": "D:\\Projetos\\DesignPatternsProjects\\CsharpProjects\\CommandSolucao\\CommandSolucao\\Program.cs",
               "RelativeToolTip": "CommandSolucao\\Program.cs",
               "ViewState": "AQIAABIAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -55,81 +72,75 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Aplicativo.cs",
-              "DocumentMoniker": "C:\\Projetos\\DesignPatternsProjects\\CsharpProjects\\CommandSolucao\\CommandSolucao\\Aplicativo.cs",
+              "DocumentMoniker": "D:\\Projetos\\DesignPatternsProjects\\CsharpProjects\\CommandSolucao\\CommandSolucao\\Aplicativo.cs",
               "RelativeDocumentMoniker": "CommandSolucao\\Aplicativo.cs",
-              "ToolTip": "C:\\Projetos\\DesignPatternsProjects\\CsharpProjects\\CommandSolucao\\CommandSolucao\\Aplicativo.cs",
+              "ToolTip": "D:\\Projetos\\DesignPatternsProjects\\CsharpProjects\\CommandSolucao\\CommandSolucao\\Aplicativo.cs",
               "RelativeToolTip": "CommandSolucao\\Aplicativo.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T02:18:54.833Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MudarTemperaturaArCondicionado.cs",
-              "DocumentMoniker": "C:\\Projetos\\DesignPatternsProjects\\CsharpProjects\\CommandSolucao\\CommandSolucao\\Commands\\MudarTemperaturaArCondicionado.cs",
-              "RelativeDocumentMoniker": "CommandSolucao\\Commands\\MudarTemperaturaArCondicionado.cs",
-              "ToolTip": "C:\\Projetos\\DesignPatternsProjects\\CsharpProjects\\CommandSolucao\\CommandSolucao\\Commands\\MudarTemperaturaArCondicionado.cs",
-              "RelativeToolTip": "CommandSolucao\\Commands\\MudarTemperaturaArCondicionado.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T02:18:42.747Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-19T02:18:54.833Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "DesligarArCondicionado.cs",
-              "DocumentMoniker": "C:\\Projetos\\DesignPatternsProjects\\CsharpProjects\\CommandSolucao\\CommandSolucao\\Commands\\DesligarArCondicionado.cs",
-              "RelativeDocumentMoniker": "CommandSolucao\\Commands\\DesligarArCondicionado.cs",
-              "ToolTip": "C:\\Projetos\\DesignPatternsProjects\\CsharpProjects\\CommandSolucao\\CommandSolucao\\Commands\\DesligarArCondicionado.cs",
-              "RelativeToolTip": "CommandSolucao\\Commands\\DesligarArCondicionado.cs",
+              "Title": "MudarTemperaturaArCondicionado.cs",
+              "DocumentMoniker": "D:\\Projetos\\DesignPatternsProjects\\CsharpProjects\\CommandSolucao\\CommandSolucao\\Commands\\MudarTemperaturaArCondicionado.cs",
+              "RelativeDocumentMoniker": "CommandSolucao\\Commands\\MudarTemperaturaArCondicionado.cs",
+              "ToolTip": "D:\\Projetos\\DesignPatternsProjects\\CsharpProjects\\CommandSolucao\\CommandSolucao\\Commands\\MudarTemperaturaArCondicionado.cs",
+              "RelativeToolTip": "CommandSolucao\\Commands\\MudarTemperaturaArCondicionado.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T02:18:30.913Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "LigarArCondicionado.cs",
-              "DocumentMoniker": "C:\\Projetos\\DesignPatternsProjects\\CsharpProjects\\CommandSolucao\\CommandSolucao\\Commands\\LigarArCondicionado.cs",
-              "RelativeDocumentMoniker": "CommandSolucao\\Commands\\LigarArCondicionado.cs",
-              "ToolTip": "C:\\Projetos\\DesignPatternsProjects\\CsharpProjects\\CommandSolucao\\CommandSolucao\\Commands\\LigarArCondicionado.cs",
-              "RelativeToolTip": "CommandSolucao\\Commands\\LigarArCondicionado.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T02:18:22.459Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-19T02:18:42.747Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "DesligarLampada.cs",
-              "DocumentMoniker": "C:\\Projetos\\DesignPatternsProjects\\CsharpProjects\\CommandSolucao\\CommandSolucao\\Commands\\DesligarLampada.cs",
-              "RelativeDocumentMoniker": "CommandSolucao\\Commands\\DesligarLampada.cs",
-              "ToolTip": "C:\\Projetos\\DesignPatternsProjects\\CsharpProjects\\CommandSolucao\\CommandSolucao\\Commands\\DesligarLampada.cs",
-              "RelativeToolTip": "CommandSolucao\\Commands\\DesligarLampada.cs",
+              "Title": "DesligarArCondicionado.cs",
+              "DocumentMoniker": "D:\\Projetos\\DesignPatternsProjects\\CsharpProjects\\CommandSolucao\\CommandSolucao\\Commands\\DesligarArCondicionado.cs",
+              "RelativeDocumentMoniker": "CommandSolucao\\Commands\\DesligarArCondicionado.cs",
+              "ToolTip": "D:\\Projetos\\DesignPatternsProjects\\CsharpProjects\\CommandSolucao\\CommandSolucao\\Commands\\DesligarArCondicionado.cs",
+              "RelativeToolTip": "CommandSolucao\\Commands\\DesligarArCondicionado.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T02:18:13.61Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-19T02:18:30.913Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "LigarArCondicionado.cs",
+              "DocumentMoniker": "D:\\Projetos\\DesignPatternsProjects\\CsharpProjects\\CommandSolucao\\CommandSolucao\\Commands\\LigarArCondicionado.cs",
+              "RelativeDocumentMoniker": "CommandSolucao\\Commands\\LigarArCondicionado.cs",
+              "ToolTip": "D:\\Projetos\\DesignPatternsProjects\\CsharpProjects\\CommandSolucao\\CommandSolucao\\Commands\\LigarArCondicionado.cs",
+              "RelativeToolTip": "CommandSolucao\\Commands\\LigarArCondicionado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T02:18:22.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DesligarLampada.cs",
+              "DocumentMoniker": "D:\\Projetos\\DesignPatternsProjects\\CsharpProjects\\CommandSolucao\\CommandSolucao\\Commands\\DesligarLampada.cs",
+              "RelativeDocumentMoniker": "CommandSolucao\\Commands\\DesligarLampada.cs",
+              "ToolTip": "D:\\Projetos\\DesignPatternsProjects\\CsharpProjects\\CommandSolucao\\CommandSolucao\\Commands\\DesligarLampada.cs",
+              "RelativeToolTip": "CommandSolucao\\Commands\\DesligarLampada.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T02:18:13.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "LigarLampada.cs",
-              "DocumentMoniker": "C:\\Projetos\\DesignPatternsProjects\\CsharpProjects\\CommandSolucao\\CommandSolucao\\Commands\\LigarLampada.cs",
+              "DocumentMoniker": "D:\\Projetos\\DesignPatternsProjects\\CsharpProjects\\CommandSolucao\\CommandSolucao\\Commands\\LigarLampada.cs",
               "RelativeDocumentMoniker": "CommandSolucao\\Commands\\LigarLampada.cs",
-              "ToolTip": "C:\\Projetos\\DesignPatternsProjects\\CsharpProjects\\CommandSolucao\\CommandSolucao\\Commands\\LigarLampada.cs",
+              "ToolTip": "D:\\Projetos\\DesignPatternsProjects\\CsharpProjects\\CommandSolucao\\CommandSolucao\\Commands\\LigarLampada.cs",
               "RelativeToolTip": "CommandSolucao\\Commands\\LigarLampada.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T02:18:06.548Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-19T02:18:06.548Z"
             }
           ]
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projetos\\DesignPatternsProjects\\CsharpProjects\\CommandSolucao\\CommandSolucao\\CommandSolucao.csproj": {}
+    "D:\\Projetos\\DesignPatternsProjects\\CsharpProjects\\BridgeSolucao\\BridgeSolucao\\BridgeSolucao.csproj": {}
   },
   "projects": {
-    "D:\\Projetos\\DesignPatternsProjects\\CsharpProjects\\CommandSolucao\\CommandSolucao\\CommandSolucao.csproj": {
+    "D:\\Projetos\\DesignPatternsProjects\\CsharpProjects\\BridgeSolucao\\BridgeSolucao\\BridgeSolucao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projetos\\DesignPatternsProjects\\CsharpProjects\\CommandSolucao\\CommandSolucao\\CommandSolucao.csproj",
-        "projectName": "CommandSolucao",
-        "projectPath": "D:\\Projetos\\DesignPatternsProjects\\CsharpProjects\\CommandSolucao\\CommandSolucao\\CommandSolucao.csproj",
+        "projectUniqueName": "D:\\Projetos\\DesignPatternsProjects\\CsharpProjects\\BridgeSolucao\\BridgeSolucao\\BridgeSolucao.csproj",
+        "projectName": "BridgeSolucao",
+        "projectPath": "D:\\Projetos\\DesignPatternsProjects\\CsharpProjects\\BridgeSolucao\\BridgeSolucao\\BridgeSolucao.csproj",
         "packagesPath": "C:\\Users\\jefferson\\.nuget\\packages\\",
-        "outputPath": "D:\\Projetos\\DesignPatternsProjects\\CsharpProjects\\CommandSolucao\\CommandSolucao\\obj\\",
+        "outputPath": "D:\\Projetos\\DesignPatternsProjects\\CsharpProjects\\BridgeSolucao\\BridgeSolucao\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

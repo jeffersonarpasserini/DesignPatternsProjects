@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RnT2eFuQj3fKqGiTs62teLJF9t4nXsK+r0IQQj3+gnB+g2kyD1YNltdpdb46gOq0WF6blh8nwR+At2q+5gzHgQ==",
+  "dgSpecHash": "oDII5whnjis=",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\DesignPatternsProjects\\CsharpProjects\\CommandSolucao\\CommandSolucao\\CommandSolucao.csproj",
+  "projectFilePath": "D:\\Projetos\\DesignPatternsProjects\\CsharpProjects\\CommandSolucao\\CommandSolucao\\CommandSolucao.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

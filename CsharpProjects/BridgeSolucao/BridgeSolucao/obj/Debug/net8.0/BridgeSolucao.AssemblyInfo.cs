@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("CommandSolucao")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("BridgeSolucao")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+720eb8403b58071ed7443f443ab6d379adc251cc")]
-[assembly: System.Reflection.AssemblyProductAttribute("CommandSolucao")]
-[assembly: System.Reflection.AssemblyTitleAttribute("CommandSolucao")]
+[assembly: System.Reflection.AssemblyProductAttribute("BridgeSolucao")]
+[assembly: System.Reflection.AssemblyTitleAttribute("BridgeSolucao")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
