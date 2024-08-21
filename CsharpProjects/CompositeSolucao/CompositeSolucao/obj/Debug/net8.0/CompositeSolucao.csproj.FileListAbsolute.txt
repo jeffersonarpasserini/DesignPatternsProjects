@@ -1,0 +1,15 @@
+C:\Projetos\DesignPatternsProjects\CsharpProjects\CompositeSolucao\CompositeSolucao\bin\Debug\net8.0\CompositeSolucao.exe
+C:\Projetos\DesignPatternsProjects\CsharpProjects\CompositeSolucao\CompositeSolucao\bin\Debug\net8.0\CompositeSolucao.deps.json
+C:\Projetos\DesignPatternsProjects\CsharpProjects\CompositeSolucao\CompositeSolucao\bin\Debug\net8.0\CompositeSolucao.runtimeconfig.json
+C:\Projetos\DesignPatternsProjects\CsharpProjects\CompositeSolucao\CompositeSolucao\bin\Debug\net8.0\CompositeSolucao.dll
+C:\Projetos\DesignPatternsProjects\CsharpProjects\CompositeSolucao\CompositeSolucao\bin\Debug\net8.0\CompositeSolucao.pdb
+C:\Projetos\DesignPatternsProjects\CsharpProjects\CompositeSolucao\CompositeSolucao\obj\Debug\net8.0\CompositeSolucao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\DesignPatternsProjects\CsharpProjects\CompositeSolucao\CompositeSolucao\obj\Debug\net8.0\CompositeSolucao.AssemblyInfoInputs.cache
+C:\Projetos\DesignPatternsProjects\CsharpProjects\CompositeSolucao\CompositeSolucao\obj\Debug\net8.0\CompositeSolucao.AssemblyInfo.cs
+C:\Projetos\DesignPatternsProjects\CsharpProjects\CompositeSolucao\CompositeSolucao\obj\Debug\net8.0\CompositeSolucao.csproj.CoreCompileInputs.cache
+C:\Projetos\DesignPatternsProjects\CsharpProjects\CompositeSolucao\CompositeSolucao\obj\Debug\net8.0\CompositeSolucao.sourcelink.json
+C:\Projetos\DesignPatternsProjects\CsharpProjects\CompositeSolucao\CompositeSolucao\obj\Debug\net8.0\CompositeSolucao.dll
+C:\Projetos\DesignPatternsProjects\CsharpProjects\CompositeSolucao\CompositeSolucao\obj\Debug\net8.0\refint\CompositeSolucao.dll
+C:\Projetos\DesignPatternsProjects\CsharpProjects\CompositeSolucao\CompositeSolucao\obj\Debug\net8.0\CompositeSolucao.pdb
+C:\Projetos\DesignPatternsProjects\CsharpProjects\CompositeSolucao\CompositeSolucao\obj\Debug\net8.0\CompositeSolucao.genruntimeconfig.cache
+C:\Projetos\DesignPatternsProjects\CsharpProjects\CompositeSolucao\CompositeSolucao\obj\Debug\net8.0\ref\CompositeSolucao.dll
