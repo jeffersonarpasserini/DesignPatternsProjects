@@ -1,0 +1,15 @@
+C:\Projetos\DesignPatternsProjects\CsharpProjects\MementoSolucao\MementoSolucao\obj\Debug\net8.0\MementoSolucao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\DesignPatternsProjects\CsharpProjects\MementoSolucao\MementoSolucao\obj\Debug\net8.0\MementoSolucao.AssemblyInfoInputs.cache
+C:\Projetos\DesignPatternsProjects\CsharpProjects\MementoSolucao\MementoSolucao\obj\Debug\net8.0\MementoSolucao.AssemblyInfo.cs
+C:\Projetos\DesignPatternsProjects\CsharpProjects\MementoSolucao\MementoSolucao\obj\Debug\net8.0\MementoSolucao.csproj.CoreCompileInputs.cache
+C:\Projetos\DesignPatternsProjects\CsharpProjects\MementoSolucao\MementoSolucao\obj\Debug\net8.0\MementoSolucao.sourcelink.json
+C:\Projetos\DesignPatternsProjects\CsharpProjects\MementoSolucao\MementoSolucao\bin\Debug\net8.0\MementoSolucao.exe
+C:\Projetos\DesignPatternsProjects\CsharpProjects\MementoSolucao\MementoSolucao\bin\Debug\net8.0\MementoSolucao.deps.json
+C:\Projetos\DesignPatternsProjects\CsharpProjects\MementoSolucao\MementoSolucao\bin\Debug\net8.0\MementoSolucao.runtimeconfig.json
+C:\Projetos\DesignPatternsProjects\CsharpProjects\MementoSolucao\MementoSolucao\bin\Debug\net8.0\MementoSolucao.dll
+C:\Projetos\DesignPatternsProjects\CsharpProjects\MementoSolucao\MementoSolucao\bin\Debug\net8.0\MementoSolucao.pdb
+C:\Projetos\DesignPatternsProjects\CsharpProjects\MementoSolucao\MementoSolucao\obj\Debug\net8.0\MementoSolucao.dll
+C:\Projetos\DesignPatternsProjects\CsharpProjects\MementoSolucao\MementoSolucao\obj\Debug\net8.0\refint\MementoSolucao.dll
+C:\Projetos\DesignPatternsProjects\CsharpProjects\MementoSolucao\MementoSolucao\obj\Debug\net8.0\MementoSolucao.pdb
+C:\Projetos\DesignPatternsProjects\CsharpProjects\MementoSolucao\MementoSolucao\obj\Debug\net8.0\MementoSolucao.genruntimeconfig.cache
+C:\Projetos\DesignPatternsProjects\CsharpProjects\MementoSolucao\MementoSolucao\obj\Debug\net8.0\ref\MementoSolucao.dll
