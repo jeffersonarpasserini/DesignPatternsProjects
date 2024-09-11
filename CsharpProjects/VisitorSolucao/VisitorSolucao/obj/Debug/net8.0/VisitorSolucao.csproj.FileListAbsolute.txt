@@ -1,0 +1,15 @@
+C:\Projetos\DesignPatternsProjects\CsharpProjects\VisitorSolucao\VisitorSolucao\obj\Debug\net8.0\VisitorSolucao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\DesignPatternsProjects\CsharpProjects\VisitorSolucao\VisitorSolucao\obj\Debug\net8.0\VisitorSolucao.AssemblyInfoInputs.cache
+C:\Projetos\DesignPatternsProjects\CsharpProjects\VisitorSolucao\VisitorSolucao\obj\Debug\net8.0\VisitorSolucao.AssemblyInfo.cs
+C:\Projetos\DesignPatternsProjects\CsharpProjects\VisitorSolucao\VisitorSolucao\obj\Debug\net8.0\VisitorSolucao.csproj.CoreCompileInputs.cache
+C:\Projetos\DesignPatternsProjects\CsharpProjects\VisitorSolucao\VisitorSolucao\obj\Debug\net8.0\VisitorSolucao.sourcelink.json
+C:\Projetos\DesignPatternsProjects\CsharpProjects\VisitorSolucao\VisitorSolucao\bin\Debug\net8.0\VisitorSolucao.exe
+C:\Projetos\DesignPatternsProjects\CsharpProjects\VisitorSolucao\VisitorSolucao\bin\Debug\net8.0\VisitorSolucao.deps.json
+C:\Projetos\DesignPatternsProjects\CsharpProjects\VisitorSolucao\VisitorSolucao\bin\Debug\net8.0\VisitorSolucao.runtimeconfig.json
+C:\Projetos\DesignPatternsProjects\CsharpProjects\VisitorSolucao\VisitorSolucao\bin\Debug\net8.0\VisitorSolucao.dll
+C:\Projetos\DesignPatternsProjects\CsharpProjects\VisitorSolucao\VisitorSolucao\bin\Debug\net8.0\VisitorSolucao.pdb
+C:\Projetos\DesignPatternsProjects\CsharpProjects\VisitorSolucao\VisitorSolucao\obj\Debug\net8.0\VisitorSolucao.dll
+C:\Projetos\DesignPatternsProjects\CsharpProjects\VisitorSolucao\VisitorSolucao\obj\Debug\net8.0\refint\VisitorSolucao.dll
+C:\Projetos\DesignPatternsProjects\CsharpProjects\VisitorSolucao\VisitorSolucao\obj\Debug\net8.0\VisitorSolucao.pdb
+C:\Projetos\DesignPatternsProjects\CsharpProjects\VisitorSolucao\VisitorSolucao\obj\Debug\net8.0\VisitorSolucao.genruntimeconfig.cache
+C:\Projetos\DesignPatternsProjects\CsharpProjects\VisitorSolucao\VisitorSolucao\obj\Debug\net8.0\ref\VisitorSolucao.dll

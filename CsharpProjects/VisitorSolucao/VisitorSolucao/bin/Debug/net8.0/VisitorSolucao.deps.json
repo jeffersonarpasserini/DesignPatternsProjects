@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "VisitorSolucao/1.0.0": {
+        "runtime": {
+          "VisitorSolucao.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VisitorSolucao/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
