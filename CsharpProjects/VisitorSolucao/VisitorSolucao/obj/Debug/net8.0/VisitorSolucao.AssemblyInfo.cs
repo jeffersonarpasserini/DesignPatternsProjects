@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VisitorSolucao")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c46ce16d59ca93464f038c719f4bf8e37a8a5ac")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c9a7cf21f08d6ee2b3c96cfe7bdc1e02ef09a2d1")]
 [assembly: System.Reflection.AssemblyProductAttribute("VisitorSolucao")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VisitorSolucao")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

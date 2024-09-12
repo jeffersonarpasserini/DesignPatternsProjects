@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MementoSolucao")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+97a3baadbcc2fab2b35cb60997231bc0f788e7b6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c9a7cf21f08d6ee2b3c96cfe7bdc1e02ef09a2d1")]
 [assembly: System.Reflection.AssemblyProductAttribute("MementoSolucao")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MementoSolucao")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

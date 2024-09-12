@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CompositeSolucao")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5665cb547e507530cd7b3bd4ee1127e3673bd71c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c9a7cf21f08d6ee2b3c96cfe7bdc1e02ef09a2d1")]
 [assembly: System.Reflection.AssemblyProductAttribute("CompositeSolucao")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CompositeSolucao")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
