@@ -1,0 +1,15 @@
+C:\Projetos\DesignPatternsProjects\CsharpProjects\MediatorSolucao\MediatorSolucao\bin\Debug\net8.0\MediatorSolucao.exe
+C:\Projetos\DesignPatternsProjects\CsharpProjects\MediatorSolucao\MediatorSolucao\bin\Debug\net8.0\MediatorSolucao.deps.json
+C:\Projetos\DesignPatternsProjects\CsharpProjects\MediatorSolucao\MediatorSolucao\bin\Debug\net8.0\MediatorSolucao.runtimeconfig.json
+C:\Projetos\DesignPatternsProjects\CsharpProjects\MediatorSolucao\MediatorSolucao\bin\Debug\net8.0\MediatorSolucao.dll
+C:\Projetos\DesignPatternsProjects\CsharpProjects\MediatorSolucao\MediatorSolucao\bin\Debug\net8.0\MediatorSolucao.pdb
+C:\Projetos\DesignPatternsProjects\CsharpProjects\MediatorSolucao\MediatorSolucao\obj\Debug\net8.0\MediatorSolucao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\DesignPatternsProjects\CsharpProjects\MediatorSolucao\MediatorSolucao\obj\Debug\net8.0\MediatorSolucao.AssemblyInfoInputs.cache
+C:\Projetos\DesignPatternsProjects\CsharpProjects\MediatorSolucao\MediatorSolucao\obj\Debug\net8.0\MediatorSolucao.AssemblyInfo.cs
+C:\Projetos\DesignPatternsProjects\CsharpProjects\MediatorSolucao\MediatorSolucao\obj\Debug\net8.0\MediatorSolucao.csproj.CoreCompileInputs.cache
+C:\Projetos\DesignPatternsProjects\CsharpProjects\MediatorSolucao\MediatorSolucao\obj\Debug\net8.0\MediatorSolucao.sourcelink.json
+C:\Projetos\DesignPatternsProjects\CsharpProjects\MediatorSolucao\MediatorSolucao\obj\Debug\net8.0\MediatorSolucao.dll
+C:\Projetos\DesignPatternsProjects\CsharpProjects\MediatorSolucao\MediatorSolucao\obj\Debug\net8.0\refint\MediatorSolucao.dll
+C:\Projetos\DesignPatternsProjects\CsharpProjects\MediatorSolucao\MediatorSolucao\obj\Debug\net8.0\MediatorSolucao.pdb
+C:\Projetos\DesignPatternsProjects\CsharpProjects\MediatorSolucao\MediatorSolucao\obj\Debug\net8.0\MediatorSolucao.genruntimeconfig.cache
+C:\Projetos\DesignPatternsProjects\CsharpProjects\MediatorSolucao\MediatorSolucao\obj\Debug\net8.0\ref\MediatorSolucao.dll

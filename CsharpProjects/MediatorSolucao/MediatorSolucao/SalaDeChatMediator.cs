@@ -53,6 +53,22 @@ public class SalaDeChatMediator : SalaDeChatMediatorInterface
 
     public void removerUsuario(Usuario usuario)
     {
-        throw new NotImplementedException();
+        // Verifica se o usuário está presente na lista
+        if (this.usuarios.Contains(usuario))
+        {
+            // Remove o usuário da lista
+            this.usuarios.Remove(usuario);
+            // Define o mediador do usuário como null, indicando
+            // que ele foi removido da sala
+            usuario.setMediator(null);
+        
+            Console.WriteLine($"{usuario.getNome()} foi removido " +
+                              $"da sala de chat {this.getNome()}.");
+        }
+    }
+    
+    public string getNome()
+    {
+        return this.nome;
     }
 }

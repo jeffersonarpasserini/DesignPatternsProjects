@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MediatorSolucao")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c9a7cf21f08d6ee2b3c96cfe7bdc1e02ef09a2d1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aff8da0d7baec8c4bae5606b53b94e58aa4a770b")]
 [assembly: System.Reflection.AssemblyProductAttribute("MediatorSolucao")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MediatorSolucao")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

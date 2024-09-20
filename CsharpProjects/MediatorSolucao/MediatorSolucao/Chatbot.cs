@@ -19,6 +19,14 @@ public class Chatbot : Usuario
     //apenas a formatação é diferente.
     public override void enviar(string mensagem)
     {
+        // Verifica se o Chatbot ainda está associado a um mediador (sala de chat)
+        if (this.mediator == null)
+        {
+            Console.WriteLine($"{this.getNome()} não está mais moderando uma sala de " +
+                              $"chat e não pode enviar mensagens.");
+            return;
+        }
+        
         //Imprime em tela o nome da sala de chat em que se encontra
         Console.WriteLine($"------------- {this.nome} -------------");
         //Imprime que enviou a mensagem e o texto da mensagem

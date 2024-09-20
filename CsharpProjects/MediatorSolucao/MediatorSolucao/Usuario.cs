@@ -15,8 +15,15 @@ public abstract class Usuario
         this.nome = nome;
     }
 
-    protected void setMediator(SalaDeChatMediatorInterface mediator)
+    public void setMediator(SalaDeChatMediatorInterface mediator)
     {
+        // Se o mediador for null, o usuário está sendo removido da sala
+        if (mediator == null)
+        {
+            this.mediator = null;
+            return;
+        }
+        
         /*Um usuário pode estar em apenas um mediator (sala de chat) por vez
         então, se seu mediator for diferente de null*/
         if (!(this.mediator is null)) {
